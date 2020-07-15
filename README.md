@@ -14,6 +14,13 @@ Description: Wind energy plays an increasing role in the supply of energy world-
 
 Solution: Our solution is an application that has an ML model trained from real-life data, that can predict the output energy based on the weather conditions on the site area. This prediction will help the power plant operators to operate plant whenever it will be feasible.
 
+Content:
+NodeRED Flow: NodeRedFlowPowerPredictor-ProConspiracy.json
+Dataset: Scada_Dataset.csv
+Documentation: PowerPredictor-ProConspiracy.docx and PowerPredictor-ProConspiracy.pdf
+Presentation: PresentationPowerPredictor-ProConspiracy.pptx
+Video Demonstration: VideoPowerPredictor-ProConspiracy.mp4
+
 Bibliography
 1.	Predicting the Energy Output of Wind Farms Based on Weather Data: Important Variables and their Correlation
 	
