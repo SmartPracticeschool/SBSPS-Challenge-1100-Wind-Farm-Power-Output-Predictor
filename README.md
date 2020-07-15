@@ -12,14 +12,20 @@ Solution: Our solution is an application that has an ML model trained from real-
 
 Bibliography
 1.	Predicting the Energy Output of Wind Farms Based on Weather Data: Important Variables and their Correlation
+	
 	Author(s): Katya Vladislavleva, Tobias Friedrich, Frank Neumann, 	Markus Wagner
+	
 	Link: https://hpi.de/friedrich/docs/paper/RE1.pdf
 2.	Wind Turbine Scada Dataset
+	
 	Author(s): Berk Erisen
+	
 	Link: https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
 
 Appendix
 1.	The solution/application
+	
 	Link: https://node-red-qlgrg.eu-gb.mybluemix.net/ui
 2.	The source including the Dataset, NodeRED Flow, Presentation and, Demonstration Video
+	
 	Link: https://github.com/SmartPracticeschool/SBSPS-Challenge-1100-Wind-Farm-Power-Output-Predictor
