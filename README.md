@@ -1,6 +1,10 @@
 Wind Farm Power Output Predictor
 
-Team: ProConspiracy
+Developed By: ProConspiracy
+
+Team ProConspiracy:
+1. Swapnil Nema
+2. Uday Rajoriya
 
 Project ID: SPS_PRO_745
 
